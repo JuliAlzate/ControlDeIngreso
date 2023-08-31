@@ -1,0 +1,24 @@
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.deps.json
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ref\ControlAccesoP.Core.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.csproj.AssemblyReference.cache
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.AssemblyInfoInputs.cache
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.AssemblyInfo.cs
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.csproj.CoreCompileInputs.cache
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ref\ControlAccesoP.Core.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.deps.json
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.csproj.AssemblyReference.cache
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.AssemblyInfoInputs.cache
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.AssemblyInfo.cs
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.csproj.CoreCompileInputs.cache
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\refint\ControlAccesoP.Core.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ref\ControlAccesoP.Core.dll

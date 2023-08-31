@@ -1,0 +1,30 @@
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.deps.json
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ref\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.AssemblyInfo.cs
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.CopyComplete
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ref\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\source\repos\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.deps.json
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.AssemblyInfo.cs
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.CopyComplete
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\refint\ControlAccesoP.Infrastructure.dll
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
+C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ref\ControlAccesoP.Infrastructure.dll
