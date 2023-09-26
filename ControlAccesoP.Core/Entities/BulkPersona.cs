@@ -17,8 +17,9 @@ namespace ControlAccesoP.Core.Entities
         public bool BUP_Estado { get; set; }
         public string BUP_FechaBukl { get; set; }
 
-        // [JsonIgnore]
+
         public long BUP_LBU_Id { get; set; }
-        
+        public int BUP_ARE_Id { get; set; }
+
     }
 }

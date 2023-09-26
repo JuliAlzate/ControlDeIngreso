@@ -23,7 +23,7 @@ namespace ControlAccesoP.Infrastructure.Repositories
         {
             try
             {
-                var estadoPersona = await _context.PersonaEstado.Where(x => x.PEE_PER_Id == id).OrderBy(x => x.PEE_Id).LastOrDefaultAsync();
+                PersonaEstado estadoPersona = await _context.PersonaEstado.Include(a => a.Area).Include(e=> e.Estado).Where(x => x.PEE_PER_Id == id).OrderBy(x => x.PEE_Id).LastOrDefaultAsync();
                 return estadoPersona;
             }
             catch (Exception ex )

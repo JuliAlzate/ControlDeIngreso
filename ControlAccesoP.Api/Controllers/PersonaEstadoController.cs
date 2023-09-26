@@ -36,9 +36,13 @@ namespace ControlAccesoP.Api.Controllers
             {
                  await _personaRepository.CompararInformacion(persona, personaDocumento);
                 var personaEstado = await _personaEstadoRepository.GetPersonaEstado((int)personaDocumento.PER_Id);
-                if (personaEstado.PEE_EST_Id!=3)
+                if (personaEstado.PEE_EST_Id==3)
                 {
                     var registroPersona = await _registroPersonaRepository.PostRegistroPersona(personaEstado);
+                    return Ok(personaEstado);
+                }
+                if (personaEstado.PEE_EST_Id == 2)
+                {
                     return Ok(personaEstado);
                 }
                 return Ok(personaEstado);    

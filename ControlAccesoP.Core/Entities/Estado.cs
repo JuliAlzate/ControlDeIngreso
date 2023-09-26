@@ -14,6 +14,6 @@ namespace ControlAccesoP.Core.Entities
         public string EST_Nombre { get; set; }
         public string EST_Descripcion { get; set; }
 
-        public List<PersonaEstado> personaEstados { get; set; }
+        public virtual List<Persona> personas { get; set; }
     }
 }

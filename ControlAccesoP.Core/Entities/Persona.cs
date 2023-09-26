@@ -13,16 +13,16 @@ namespace ControlAccesoP.Core.Entities
 
         [Key]
         public long PER_Id { get; set; }
-        public string PER_Cedula { get; set; }
-        public string PER_PrimerNombre { get; set; }
-        public string PER_SegundoNombre { get; set; }
-        public string PER_PrimerApellido { get; set; }
-        public string PER_SegundoApellido { get; set; }
-        public string PER_FechaNacimiento { get; set; }
-        public string PER_Sexo { get; set; }
+        public string PER_Cedula { get; set; }= string.Empty;
+        public string PER_PrimerNombre{ get; set; }=string.Empty;
+        public string? PER_SegundoNombre { get; set; } 
+        public string PER_PrimerApellido { get; set; } = string.Empty;
+        public string PER_SegundoApellido { get; set; } = string.Empty;
+        public string PER_FechaNacimiento { get; set; } = string.Empty;
+        public string PER_Sexo { get; set; } = string.Empty;   
 
         // [JsonIgnore]
-        public long PER_TID_Id { get; set; }
+        public long? PER_TID_Id { get; set; }
         [ForeignKey("PER_TID_Id")]
         public TipoDocumento TipoDocumento { get; set; }
 
@@ -30,6 +30,6 @@ namespace ControlAccesoP.Core.Entities
         //[ForeignKey("PER_BUP_Id")]
         //public BulkPersona BulkPersona { get; set; }
 
-        //public List<RegistroPersona> RegistroPersonas { get; set; }
+        public virtual List<Estado> Estados { get; set; }
     }
 }

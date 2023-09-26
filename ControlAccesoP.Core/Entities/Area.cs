@@ -15,5 +15,8 @@ namespace ControlAccesoP.Core.Entities
         public bool ARE_Estado { get; set; }
 
         public List<LogBulk> LogBulk { get; set; }
+
+
+        
     }
 }

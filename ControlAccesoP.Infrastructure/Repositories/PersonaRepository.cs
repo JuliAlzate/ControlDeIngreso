@@ -40,9 +40,20 @@ namespace ControlAccesoP.Infrastructure.Repositories
 
 
         public  async Task<Persona> PersonaReg(string id)
+
         {
-            var a = await _context.Persona.Where(x => x.PER_Cedula == id).FirstOrDefaultAsync();
-            return a;
+            try
+            {
+                var a = await _context.Persona.Where(x => x.PER_Cedula == id).FirstOrDefaultAsync();
+                return a;
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
+           
+           
         }
 
 

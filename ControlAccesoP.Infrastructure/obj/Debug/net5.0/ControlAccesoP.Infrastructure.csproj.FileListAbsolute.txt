@@ -28,3 +28,18 @@ C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrast
 C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\refint\ControlAccesoP.Infrastructure.dll
 C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
 C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ref\ControlAccesoP.Infrastructure.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.deps.json
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\bin\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.AssemblyInfo.cs
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.csproj.CopyComplete
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\refint\ControlAccesoP.Infrastructure.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ControlAccesoP.Infrastructure.pdb
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Infrastructure\obj\Debug\net5.0\ref\ControlAccesoP.Infrastructure.dll

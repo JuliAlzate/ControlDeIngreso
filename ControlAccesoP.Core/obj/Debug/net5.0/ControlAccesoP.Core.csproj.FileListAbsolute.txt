@@ -22,3 +22,15 @@ C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\ob
 C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\refint\ControlAccesoP.Core.dll
 C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.pdb
 C:\Users\jagonzales\Desktop\CONTROL ACCESO\ControlAccesoP\ControlAccesoP.Core\obj\Debug\net5.0\ref\ControlAccesoP.Core.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.deps.json
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\bin\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.csproj.AssemblyReference.cache
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.AssemblyInfoInputs.cache
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.AssemblyInfo.cs
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.csproj.CoreCompileInputs.cache
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\refint\ControlAccesoP.Core.dll
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ControlAccesoP.Core.pdb
+C:\Users\julian\OneDrive - Universidad Nacional Abierta y a Distancia\Escritorio\Backend Control Acceso\ControlDeIngreso\ControlAccesoP.Core\obj\Debug\net5.0\ref\ControlAccesoP.Core.dll
